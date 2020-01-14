@@ -1,0 +1,10 @@
+
+.vs/*
+packages/*
+*bin
+*dll
+obj*
+publish* 
+Screenshots*
+Logos*
+
